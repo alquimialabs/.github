@@ -1,0 +1,13 @@
+{
+    "name": "Testing shared CI",
+    "description": "Testing shared CI.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
